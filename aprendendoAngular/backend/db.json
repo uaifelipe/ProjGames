@@ -1,0 +1,28 @@
+{
+    "games": [
+      {
+        "id": 1,
+        "name": "The Last of Us 2",
+        "price": 60,
+        "plataform": "PlayStation 4"
+      },
+      {
+        "id": 2,
+        "name": "Forza Horizon 4",
+        "price": 60,
+        "plataform": "Xbox One"
+      },
+      {
+        "id": 3,
+        "name": "Super Smash Bros Ultimate",
+        "price": 60,
+        "plataform": "Nintendo Switch"
+      },
+      {
+        "id": 4,
+        "name": "Left 4 Dead 2",
+        "price": "12.50",
+        "plataform": "PC"
+      }
+    ]
+  }
